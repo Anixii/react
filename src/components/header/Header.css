@@ -1,0 +1,12 @@
+.header{ 
+    display: flex; 
+    padding: 0 12%;
+    justify-content: space-between;
+    height: 90px;
+    align-items: center;
+}
+.header__list{ 
+    display: flex; 
+    align-items: center;
+    column-gap: 14px;
+}
